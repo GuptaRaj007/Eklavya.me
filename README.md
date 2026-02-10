@@ -157,6 +157,8 @@ ai_assessment/
 ## Installation & Setup
 
 ```bash
+git clone https://github.com/GuptaRaj007/Eklavya.me.git
+
 # Create virtual environment (optional)
 python -m venv venv
 venv\Scripts\activate   # Windows
