@@ -1,7 +1,3 @@
-Here’s an **updated and fully aligned README** reflecting the latest changes, including the stricter ReviewerAgent, multi-word topic alignment, and empty/unsupported topic handling. I preserved your style and structure.
-
----
-
 # AI Agent-Based Educational Content Generator
 
 ## Overview
@@ -229,11 +225,6 @@ streamlit run app.py
 * Multi-word topic alignment and grade-aware content improve robustness
 
 ---
-
-## Summary
-
-This project demonstrates a clean and minimal agent-based AI workflow with structured communication, evaluation, and refinement. The solution prioritizes clarity, correctness, and alignment with assignment requirements while maintaining a professional and production-ready design.
-
 ---
 
 **Author:** Raj
