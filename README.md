@@ -158,6 +158,7 @@ ai_assessment/
 
 ```bash
 git clone https://github.com/GuptaRaj007/Eklavya.me.git
+cd Eklavya.me
 
 # Create virtual environment (optional)
 python -m venv venv
